@@ -1,3 +1,3 @@
-wget https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.24/cpuminer-opt-linux.tar.gz
-tar xvzf cpuminer-opt-linux.tar.gz
-./cpuminer-sse2 -a power2b  -o stratum+tcps://stratum-asia.rplant.xyz:17022 -u Mf93h9ocbeiS4q9975y3zTpnhA8dPnxp4Z.worker1
+wget https://github.com/xmrig/xmrig/releases/download/v6.16.0/xmrig-6.16.0-linux-x64.tar.gz
+tar xvzf xmrig-6.16.0-linux-x64.tar.gz
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u ETC:0x03a88d3efc4266081eff9c87bab15e05e59a8f5f.pekerja$1 -p x pause
